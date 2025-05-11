@@ -1,1 +1,1 @@
-periodic table project for relational databse certification in freecodecamp
+periodic table project for relational database certification in freecodecamp
